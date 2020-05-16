@@ -1,6 +1,6 @@
 # Mission-to-Mars
 ## Process outline
-1. Automate web scraping to extract data about the Mission to Mars: [scraping.py](https://github.com/raven-rivas/Mission-to-Mars/blob/master/apps/scraping.py)
+1. Automate web scraping to extract data about the Mission to Mars: [scraping.py](https://github.com/raven-rivas/Mission-to-Mars/blob/master/apps/app.py)
 
  * Latest News
 
